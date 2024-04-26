@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "de7ac967-f11c-49d3-86d6-06c9e6b465e5"
+      }
+    },
+    "owner": "fcomoraless"
   }
 }
